@@ -1,6 +1,6 @@
 # How-To
 
-This is a private repository that stores instructions, notes and code surrounding how to use GitHub using mac terminal.
+This is a private repository that stores instructions, notes and code on how to use GitHub using mac terminal.
 
 # Git and Terminal
 
