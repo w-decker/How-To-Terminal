@@ -30,6 +30,10 @@ git clone https://github.com/w-decker/repository_name.git
 # Making sure you're up to date with the repository
 
 ```
+git pull origin main
+```
+
+```
 git checkout main
 ```
 
