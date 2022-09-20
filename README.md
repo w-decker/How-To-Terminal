@@ -1,6 +1,20 @@
 # How-To
 
-This is a private respository that stores instructions, notes and code surrounding how to use GitHub using mac terminal.
+This is a private repository that stores instructions, notes and code surrounding how to use GitHub using mac terminal.
+
+# Git and Terminal
+
+1. Install Homebrew using the code below
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+2. Install git via brew
+
+```
+brew install git
+```
 
 # Cloning repositories directly onto computer
 
