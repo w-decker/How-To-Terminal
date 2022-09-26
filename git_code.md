@@ -21,3 +21,10 @@ Code used to add single file
 ```
 git add file_name
 ```
+
+Code used to switch to another branch
+
+```
+git switch BranchName
+```
+
