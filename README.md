@@ -49,6 +49,15 @@ git merge upstream/main
 git push origin main
 ```
 
+or
+
+```
+git checkout main
+git fetch upstream
+git merge upstream/main
+git push origin main
+```
+
 # Pushing files to personal repositories
 
 1. Add file into personal repository on computer
