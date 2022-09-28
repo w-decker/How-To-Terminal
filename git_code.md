@@ -28,3 +28,14 @@ Code used to switch to another branch
 git switch BranchName
 ```
 
+Creating a new branch
+
+```
+git branch NewBranch
+```
+
+or
+
+```
+git checkout NewBranch
+```
