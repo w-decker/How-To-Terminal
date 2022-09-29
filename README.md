@@ -72,6 +72,10 @@ git commit -m "write message here"
 ```
 
 ```
+git branch NewBranch 
+```
+
+```
 git push origin branch_name
 ```
 
