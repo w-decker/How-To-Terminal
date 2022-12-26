@@ -11,4 +11,11 @@ creating and entering an environment in Visual Studio Code using Terminal
 ```
 python3.10 -m venv environment_name
 source environment_name/bin/activate
+
+```
+
+to exit a virtual environment
+
+```
+deactivate
 ```
