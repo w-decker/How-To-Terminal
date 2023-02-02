@@ -1,6 +1,6 @@
 # How-To
 
-This is a private repository that stores instructions, notes and code on how to use  mac terminal. This repository is organized into random notes; there is no particular method to going through different files within this repo. 
+This is a repository that stores instructions, notes and code on how to use  mac terminal. This repository is organized into random notes; there is no particular method to going through different files within this repo. 
 
 # Git and Terminal
 
