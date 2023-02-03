@@ -19,3 +19,9 @@ to exit a virtual environment
 ```
 deactivate
 ```
+
+running python files in terminal
+
+```
+python3 file_name.py
+```
